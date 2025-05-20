@@ -3,8 +3,8 @@
 Recently graduated Software Engineer with a strong interest in web development and new technologies. Passionate about learning, working in teams, and providing effective solutions in collaborative environments. I stand out for being adaptable and having a constant attitude of improvement.
 
 - 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
+  - React
+  - GO
 - Outside tech, 🎮 I love playing video games, 🎵 listening to music, and 🏋️‍♂️ doing exercise.
 
 ---
